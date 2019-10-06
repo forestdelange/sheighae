@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohshohfu.merit-advisors.com/sitemap.xml
